@@ -11,7 +11,7 @@ class LinkPager extends LinkPagerBaseYii
      * Кол-во выводимых строк
      * @var array
      */
-    private $pageSizeList = [134, 20, 50, 100, 500];
+    private $pageSizeList = [20, 50, 100, 500];
 
     /**
      * @var string
